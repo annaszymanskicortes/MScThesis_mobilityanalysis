@@ -19,13 +19,3 @@ The dataset used in this project was collected by Zhang et al. and is publicly a
 * NumPy / SciPy / Pandas (Data processing and simulation)
 * Seaborn / Matplotlib (Data visualization)
 * Folium (Visualization of geographically localized information)
-
-## ▶️ Usage
-
-Clone the repository and install dependencies:
-```bash
-git clone https://github.com/your-username/your-repo.git
-pip install numpy scipy pandas matplotlib seaborn folium tqdm
-```
-Then run the notebooks in order: `data_china.ipynb` → `null_model.ipynb` 
-→ `randomwalkers.ipynb`.
